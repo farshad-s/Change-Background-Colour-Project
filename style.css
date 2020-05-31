@@ -1,0 +1,10 @@
+#button{
+    padding: 5px;
+    margin-left: 665px;
+    margin-top: 500px;
+    cursor: pointer;
+}
+
+body{
+    background-color: black;
+}
