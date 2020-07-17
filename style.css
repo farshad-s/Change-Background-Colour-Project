@@ -1,10 +1,17 @@
+body{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+}
+
+.button-container {
+    display: flex;
+    align-items: center;
+    height: 768px;
+}
+
 #button{
     padding: 5px;
-    margin-left: 665px;
-    margin-top: 500px;
     cursor: pointer;
 }
 
-body{
-    background-color: black;
-}
